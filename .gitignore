@@ -1,0 +1,10 @@
+ipynb/
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+*.txt
+assets/
+xslices/
